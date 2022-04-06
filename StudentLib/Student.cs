@@ -10,7 +10,7 @@
         private float gpa;
 
         //properties
-        public string FirstName
+        public string FirstName //PascalCase
         {
             get { return _firstName; }
             set { _firstName = value; }
@@ -32,7 +32,7 @@
         }
 
         //constructors
-        public Student(string firstName, string lastName, string id, float gpa)
+        public Student(string firstName, string lastName, string id, float gpa) //CamelCase
         {
             FirstName = firstName;
             LastName = lastName;

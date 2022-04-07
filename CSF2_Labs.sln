@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labs1", "Labs1\Labs1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentLib", "StudentLib\StudentLib.csproj", "{E9FC559F-22D5-4255-8198-1F98535BEB07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block3Lab", "Block3Lab\Block3Lab.csproj", "{28C47F95-B6C7-4BB1-B896-54A5255D01FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Block3Lab", "Block3Lab\Block3Lab.csproj", "{28C47F95-B6C7-4BB1-B896-54A5255D01FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block3LabLibrary", "Block3LabLibrary\Block3LabLibrary.csproj", "{45B7E563-7436-4CDF-BB13-8A18C66765D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Block3LabLibrary", "Block3LabLibrary\Block3LabLibrary.csproj", "{45B7E563-7436-4CDF-BB13-8A18C66765D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labs2", "Labs2\Labs2.csproj", "{EA7DFB3B-5EBB-4FCB-8B78-1154F6198BAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{45B7E563-7436-4CDF-BB13-8A18C66765D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B7E563-7436-4CDF-BB13-8A18C66765D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B7E563-7436-4CDF-BB13-8A18C66765D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7DFB3B-5EBB-4FCB-8B78-1154F6198BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7DFB3B-5EBB-4FCB-8B78-1154F6198BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7DFB3B-5EBB-4FCB-8B78-1154F6198BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7DFB3B-5EBB-4FCB-8B78-1154F6198BAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

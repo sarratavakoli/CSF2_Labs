@@ -56,8 +56,7 @@
         //methods
         public override string ToString()
         {
-            return string.Format($"Contact Info \nAddress: \n{StreetAddress}\n" +
-                $"{City}, {State} {Zip}\n" +
+            return string.Format($"Address: {StreetAddress}, {City}, {State} {Zip}\n" +
                 $"Phone: {Phone}\n" +
                 $"Email: {Email}");
         }

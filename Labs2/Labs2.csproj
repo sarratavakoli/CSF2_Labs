@@ -1,12 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Block3LabLibrary\Block3LabLibrary.csproj" />
+    <ProjectReference Include="..\Block3Lab\Block3Lab.csproj" />
+    <ProjectReference Include="..\Labs1\Labs1.csproj" />
     <ProjectReference Include="..\StudentLib\StudentLib.csproj" />
   </ItemGroup>
 
